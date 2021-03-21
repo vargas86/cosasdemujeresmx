@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AACI,YADQ,CACR,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;CACrB",
-    "sources": [
-        "section-dos.scss"
-    ],
-    "names": [],
-    "file": "section-dos.css"
-}
